@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV2JSON.Library", "CSV2JSON.Library\CSV2JSON.Library.csproj", "{D07D840B-9FD8-4E23-9944-FE2145948BD2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console.UI", "Console.UI\Console.UI.csproj", "{0AB297C2-DF88-4342-89F3-CA6ED1EE01BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{D07D840B-9FD8-4E23-9944-FE2145948BD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D07D840B-9FD8-4E23-9944-FE2145948BD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D07D840B-9FD8-4E23-9944-FE2145948BD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB297C2-DF88-4342-89F3-CA6ED1EE01BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB297C2-DF88-4342-89F3-CA6ED1EE01BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB297C2-DF88-4342-89F3-CA6ED1EE01BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB297C2-DF88-4342-89F3-CA6ED1EE01BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
