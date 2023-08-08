@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using CSV2JSON.Library;
+
+Converter.CSV2JSON("../CSV2JSON.Library/Data/countries.csv", "countries");
